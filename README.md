@@ -19,7 +19,7 @@ I'm a passionate **Web Developer**. With a foundation in front-end and back-end 
 
 
 ### 📫 Get in Touch
-- Email: [aliabievadiana25@gmail.com] (aliabievadiana25@gmail.com)
+- Email: aliabievadiana25@gmail.com
 - LinkedIn: https://www.linkedin.com/in/diana-aliabieva/
 
 ---
